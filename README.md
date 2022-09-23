@@ -2,7 +2,7 @@
   <h1 align="left">  👋 Hi!   My name is  <a href="https://github.com/ircNewBie"> Bong Bungalan Jr.</a> </h1>
 </p>
 <p align="left">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Back+End+developer.;A+Software+QA+Engineer+as=well.;I+use+Javascript/Python/etc...;++++++;I'm++a++sleepy++programmer.;And+sure!+my+bad,++++I+snore!!+++;+++" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Back+End+developer.;A+Software+QA+Engineer+as+well.;I+use+Javascript/Python/etc...;++++++;I'm++a++sleepy++programmer.;And+sure!+my+bad,++++I+snore!!+++;+++" /></a>
 </p>
 
 #### I am a Backend Developer and Software QA Engineer from the Philippines.
