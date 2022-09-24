@@ -50,21 +50,19 @@ const me = softwareDeveloper(myCurrentRole);
 
 #### My Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ircNewBie&show_icons=true&include_all_commits=true&theme=onedark" alt="My github stats" />
-</a>
-
 <table border-spacing: 0>
 <thead>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ircNewBie&show_icons=true&include_all_commits=true&theme=onedark" alt="My github stats" />
+      </a>
+      
 <tr>
+  <th>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ircNewBie&layout=compact&theme=onedark" />
+  </a>
 
-<th>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ircNewBie&layout=compact&theme=onedark" />
-</a>
-
-</th>
+  </th>
 
 <th>
 
@@ -72,14 +70,18 @@ const me = softwareDeveloper(myCurrentRole);
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ircNewBie&theme=onedark" alt="MrBlueBird2" />
 </p>
 </th>
-
+</br>
+</br>
 </tr>
 </thead>
 </table>
+
 #### My Contribution Graph
 ![Bong's github activity graph](https://activity-graph.herokuapp.com/graph?username=ircNewBie&theme=react-dark)
 <!---
 --->
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ircNewBie)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I'm an Early 🐤
 ```text
