@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <h1 align="left">  Hi!   My name is  <a href="https://github.com/ircNewBie"> Bong~👋</a> </h1>
 </p>
 <p align="left">
@@ -50,7 +50,7 @@ const me = softwareDeveloper(myCurrentRole);
 
 #### My Stats
 
-<table border-spacing: 0>
+<table border-spacing: 0; padding: 0px0;>
 <thead>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ircNewBie&show_icons=true&include_all_commits=true&theme=onedark" alt="My github stats" />
       </a>
@@ -78,10 +78,13 @@ const me = softwareDeveloper(myCurrentRole);
 
 #### My Contribution Graph
 ![Bong's github activity graph](https://activity-graph.herokuapp.com/graph?username=ircNewBie&theme=react-dark)
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ircNewBie/297ff3dc-55ae-41f6-bbd7-6bb3cc938b30.png" style="width:100%; height:300px" /></a>
+
+
 <!---
 --->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ircNewBie)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I'm an Early 🐤
 ```text
