@@ -46,7 +46,7 @@ const myCurrentRole = 'Junior Backend Developer';
 const me = softwareDeveloper(myCurrentRole);
 ```
 
-#### My Stats
+#### myStats
 
 <table border-spacing: 0; padding: 0px0;>
 <thead>
@@ -65,7 +65,7 @@ const me = softwareDeveloper(myCurrentRole);
 <th>
 
 <p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ircNewBie&theme=onedark" alt="MrBlueBird2" />
+  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ircNewBie&theme=onedark" alt="ircNewBie" />
 </p>
 </th>
 </br>
@@ -74,18 +74,18 @@ const me = softwareDeveloper(myCurrentRole);
 </thead>
 </table>
 
-#### My Contribution Graph
+#### myContributionGraph
 
 ![Bong's github activity graph](https://activity-graph.herokuapp.com/graph?username=ircNewBie&theme=react-dark)
 
-#### My Coding Activity over the last 30 days
+#### myCodingActivityOverTheLast_30Days
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ircNewBie/ddff9ecb-e20e-4815-b2c6-ce1d437070ce.png" style="width:100%; height:300px" /></a>
 
 <!---
 --->
 
-#### I'm an Early 🐤
+#### iAmPartlyEarly 🐤
 
 ```text
 🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░    6.98%
@@ -95,7 +95,7 @@ const me = softwareDeveloper(myCurrentRole);
 
 ```
 
-#### I Spent My Time On
+#### myTimeSpentOn
 
 ```text
 💬 Programming Lanuages:
@@ -114,11 +114,13 @@ Android                      ███░░░░░░░░░░░░░░
 
 ```
 
-<h4 style="font-size:10px"> Credits </h4>
+<h4 style="font-size:10px"> creditsTo</h4>
   <table>
     <thead>
-      <th><a href="https://github.com/anuraghazra/github-readme-stats" > anuraghazra  </a> </th>
-      <th><a href="https://github.com/DenverCoder1/readme-typing-svg" > DenverCoder1 </a> </th>
+      <th><a href="https://github.com/anuraghazra/github-readme-stats" > | anuraghazra  </a> </th>
+      <th><a href="https://github.com/DenverCoder1/readme-typing-svg" > | DenverCoder1 </a> </th>
+   
+      
     </thead>
   </table>
 </br>
