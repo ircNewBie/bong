@@ -116,7 +116,15 @@ Android                      ███░░░░░░░░░░░░░░
 ```
 
 
-<h4 style="font-size:8px">
-Credits:<a href="https://github.com/anuraghazra/github-readme-stats" > anuraghazra</a>
+<h4 style="font-size:8px"> Credits </h4>
+  <table>
+    <thead>
+      <tr><th><a href="https://github.com/anuraghazra/github-readme-stats" > anuraghazra  </a> </th></tr>
+      <tr><th><a href="https://github.com/DenverCoder1/readme-typing-svg" > DenverCoder1 </a> </th></tr>
+    </thead>
+  </table>
+</br>
+</br>
+  
 
 
