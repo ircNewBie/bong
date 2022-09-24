@@ -49,19 +49,33 @@ const me = softwareDeveloper(myCurrentRole);
 
 
 #### My Stats
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ircNewBie&show_icons=true&include_all_commits=true&theme=onedark" alt="My github stats" />
 </a>
+
+<table border-spacing: 0>
+<thead>
+<tr>
+
+<th>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ircNewBie&layout=compact&theme=onedark" />
 </a>
-<br />
-<br />
+
+</th>
+
+<th>
+
 <p align="center">
   <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ircNewBie&theme=onedark" alt="MrBlueBird2" />
 </p>
+</th>
 
+</tr>
+</thead>
+</table>
 #### My Contribution Graph
 ![Bong's github activity graph](https://activity-graph.herokuapp.com/graph?username=ircNewBie&theme=react-dark)
 <!---
