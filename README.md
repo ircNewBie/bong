@@ -47,15 +47,12 @@ const me = softwareDeveloper(myCurrentRole);
 ```
 
 #### myStats
-<table border-spacing: 0; padding: 0px;>
+<table style= "border: none; transform:skewX(-10deg);" >
   <th>
       <a href="https://github.com/ircNewBie/ircNewBie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ircNewBie&show_icons=true&include_all_commits=true&theme=onedark" alt="My github stats" />
       </a>
   </th>
- 
-<table border-spacing: 0; padding: 0px;>
-
-#### mostLanguagesUsedAndStreaks 
+<table style= "border: none; transform:skewX(-10deg);">
   <tr>
     <th>
       <a href="https://github.com/ircNewBie/ircNewBie">
@@ -71,8 +68,13 @@ const me = softwareDeveloper(myCurrentRole);
 </table>
 
 #### myContributionGraph
+<table style= "border: none; transform:skewX(-10deg);">
+<th>
 
-![Bong's github activity graph](https://activity-graph.herokuapp.com/graph?username=ircNewBie&theme=react-dark)
+  ![Bong's github activity graph](https://activity-graph.herokuapp.com/graph?username=ircNewBie&theme=react-dark)
+
+</th>
+</table>
 
 #### myCodingActivityOverTheLast_30Days
 
