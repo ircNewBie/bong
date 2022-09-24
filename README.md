@@ -2,7 +2,7 @@
   <h1 align="left">  Hi!   My name is  <a href="https://github.com/ircNewBie"> Bong~👋</a> </h1>
 </p>
 <p align="left">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Backend+Developer.;A+Software+QA/+Tester+as+well.;I+use+Javascript,+Python,+etc...;;I'm++a+little+sleepy++programmer.;And+sure,++++I+snore!!+++;+++" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Backend+Developer.;A+Software+QA/+Tester+as+well.;I+use+Javascript,+Python,+etc...;I'm++a+little+sleepy++programmer.;And+sure,++++I+snore!!+++;+++" /></a>
 
 </p>
 
@@ -12,7 +12,7 @@ I am a Backend Developer and a Software QA/Tester.
   <li>
           Data Science, Big Data & Analytics.
   </li>
-   <li>
+  <li>
           Cloud Architecture & Deployment.
   </li>
   <li>
@@ -47,31 +47,27 @@ const me = softwareDeveloper(myCurrentRole);
 ```
 
 #### myStats
-
-<table border-spacing: 0; padding: 0px0;>
-<thead>
-<a href="https://github.com/ircNewBie/ircNewBie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ircNewBie&show_icons=true&include_all_commits=true&theme=onedark" alt="My github stats" />
-</a>
-      
-<tr>
+<table border-spacing: 0; padding: 0px;>
   <th>
-  <a href="https://github.com/ircNewBie/ircNewBie">
-    <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ircNewBie&layout=compact&theme=onedark" />
-  </a>
-
+      <a href="https://github.com/ircNewBie/ircNewBie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ircNewBie&show_icons=true&include_all_commits=true&theme=onedark" alt="My github stats" />
+      </a>
   </th>
+ 
+<table border-spacing: 0; padding: 0px;>
 
-<th>
-
-<p align="center">
-  <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ircNewBie&theme=onedark" alt="ircNewBie" />
-</p>
-</th>
-</br>
-</br>
-</tr>
-</thead>
+#### mostLanguagesUsedAndStreaks 
+  <tr>
+    <th>
+      <a href="https://github.com/ircNewBie/ircNewBie">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ircNewBie&layout=compact&theme=onedark" />
+      </a>
+    </th>
+    <th>
+      <p align="center">
+        <img align="center" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=ircNewBie&theme=onedark" alt="ircNewBie" />
+      </p>
+    </th>
+    </tr>
 </table>
 
 #### myContributionGraph
@@ -81,9 +77,6 @@ const me = softwareDeveloper(myCurrentRole);
 #### myCodingActivityOverTheLast_30Days
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ircNewBie/ddff9ecb-e20e-4815-b2c6-ce1d437070ce.png" style="width:100%; height:300px" /></a>
-
-<!---
---->
 
 #### iAmPartlyEarly 🐤
 
@@ -114,12 +107,10 @@ Android                      ███░░░░░░░░░░░░░░
 
 ```
 
-<h4 style="font-size:10px"> creditsTo</h4>
+<h4 style="font-size:10px"> creditsToTheCreators</h4>
   <table>
     <thead>
       <th><a href="https://github.com/anuraghazra/github-readme-stats" > | anuraghazra  </a> </th>
       <th><a href="https://github.com/DenverCoder1/readme-typing-svg" > | DenverCoder1 </a> </th>
     </thead>
   </table>
-</br>
-</br>
