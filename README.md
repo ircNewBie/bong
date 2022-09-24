@@ -1,3 +1,4 @@
+
 <p align="left">
   <h1 align="left">  Hi!   My name is  <a href="https://github.com/ircNewBie"> Bong~👋</a> </h1>
 </p>
@@ -7,7 +8,7 @@
 </p>
 
 <p>
-I am a Backend Developer and a Software QA/Tester from the Philippines. 
+I am a Backend Developer and a Software QA/Tester. 
    I love to explore new learning horizons especially in areas of:
   <li>
           Data Science, Big Data & Analytics.
@@ -79,7 +80,8 @@ const me = softwareDeveloper(myCurrentRole);
 #### My Contribution Graph
 ![Bong's github activity graph](https://activity-graph.herokuapp.com/graph?username=ircNewBie&theme=react-dark)
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ircNewBie/297ff3dc-55ae-41f6-bbd7-6bb3cc938b30.png" style="width:100%; height:300px" /></a>
+#### My Coding Activity over the last 30 days
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ircNewBie/ddff9ecb-e20e-4815-b2c6-ce1d437070ce.png" style="width:100%; height:300px" /></a>
 
 
 <!---
@@ -114,7 +116,9 @@ Android                      ███░░░░░░░░░░░░░░
 ```
 
 
-<p style="font-size:8px">
+<h4 style="font-size:8px">
 Credits:
+</h4>
   <a href="https://github.com/anuraghazra/github-readme-stats" > anuraghazra</a>
-</p>
+
+
