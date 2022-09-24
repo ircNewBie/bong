@@ -52,14 +52,14 @@ const me = softwareDeveloper(myCurrentRole);
 
 <table border-spacing: 0; padding: 0px0;>
 <thead>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ircNewBie&show_icons=true&include_all_commits=true&theme=onedark" alt="My github stats" />
-      </a>
+<a href="https://github.com/ircNewBie/ircNewBie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ircNewBie&show_icons=true&include_all_commits=true&theme=onedark" alt="My github stats" />
+</a>
       
 <tr>
   <th>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/ircNewBie/ircNewBie">
     <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ircNewBie&layout=compact&theme=onedark" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ircNewBie&layout=compact&theme=onedark" />
   </a>
 
   </th>
@@ -113,3 +113,8 @@ Android                      ███░░░░░░░░░░░░░░
                          
 ```
 
+
+<p style="font-size:8px">
+Credits:
+  <a href="https://github.com/anuraghazra/github-readme-stats" > anuraghazra</a>
+</p>
