@@ -119,8 +119,6 @@ Android                      ███░░░░░░░░░░░░░░
     <thead>
       <th><a href="https://github.com/anuraghazra/github-readme-stats" > | anuraghazra  </a> </th>
       <th><a href="https://github.com/DenverCoder1/readme-typing-svg" > | DenverCoder1 </a> </th>
-   
-      
     </thead>
   </table>
 </br>
