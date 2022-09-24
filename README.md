@@ -1,12 +1,13 @@
 <p align="center">
-  <h1 align="left">  👋 Hi!   My name is  <a href="https://github.com/ircNewBie"> Bong Bungalan Jr.</a> </h1>
+  <h1 align="left">  Hi!   My name is  <a href="https://github.com/ircNewBie"> Bong~👋</a> </h1>
 </p>
 <p align="left">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Back+End+developer.;A+Software+QA+Engineer+as+well.;I+use+Javascript/Python/etc...;++++++;I'm++a++sleepy++programmer.;And+sure!+my+bad,++++I+snore!!+++;+++" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Backend+Developer.;A+Software+QA/+Tester+as+well.;I+use+Javascript,+Python,+etc...;;I'm++a+little+sleepy++programmer.;And+sure,++++I+snore!!+++;+++" /></a>
+
 </p>
 
-#### I am a Backend Developer and Software QA Engineer from the Philippines.
 <p>
+I am a Backend Developer and a Software QA/Tester from the Philippines. 
    I love to explore new learning horizons especially in areas of:
   <li>
           Data Science, Big Data & Analytics.
@@ -18,6 +19,7 @@
           Financial Markets' Trading Automation (Stocks, Forex & Crypto Currencies).
   </li>
 </p>
+<hr>
 
 ```javascript
 /**
@@ -40,16 +42,11 @@ const softwareDeveloper = (_devRole) => {
   return thisDeveloper;
 };
 
-const myCurrentRole = 'Junior Backend Developer';
+const myCurrentRole = "Junior Backend Developer";
 const me = softwareDeveloper(myCurrentRole);
 
 ```
 
-#### My GitHub Data :octocat:
-> 🏆 340+ Contributions
- > 
-> 🔑 38+ Contribution in Private Repos
- > 
 
 #### My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -68,33 +65,32 @@ const me = softwareDeveloper(myCurrentRole);
 #### My Contribution Graph
 ![Bong's github activity graph](https://activity-graph.herokuapp.com/graph?username=ircNewBie&theme=react-dark)
 <!---
-MrBlueBird2/MrBlueBird2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
 
 #### I'm an Early 🐤
 ```text
-🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░   12.5% 
-🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.5% 
-🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   20.5% 
-🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
+🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░    6.98% 
+🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.37% 
+🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   21.75% 
+🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░    9.54%
+                             
 ```
 
 #### I Spent My Time On
 ```text
 💬 Programming Lanuages:
-React                    18 hrs              ███████████░░░░░░░░░░░░░░   46% 
-HTML&CSS                 1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
-Android Studio           1 hr 5 mins         █████████░░░░░░░░░░░░░░░░   30% 
-React Ionic              59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
-GitHub & Gitlab          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   9.5%
-
+Javascript                   █████████████░░░░░░░░░░░░   46% 
+Laravel/Php                  █████████░░░░░░░░░░░░░░░░   30% 
+Python                       ██░░░░░░░░░░░░░░░░░░░░░░░   10% 
+GitHub & Gitlab              █░░░░░░░░░░░░░░░░░░░░░░░░    9%
+                          
 🔥 Editors:
-VS Code                  8 Hours            ██████████████████████████   100% 
+VS Code                      █████████████████████████   100% 
 
 💻 Operating System:
-Windows             7 hrs       ██████████████░░░░░░░░░░░   50%
-Ubuntu              7 hrs       ██████████████░░░░░░░░░░░   50%
-
+Windows                      █████░░░░░░░░░░░░░░░░░░░░   20%
+Mac                          █████████████████░░░░░░░░   67%
+Android                      ███░░░░░░░░░░░░░░░░░░░░░░   13%
+                         
 ```
 
