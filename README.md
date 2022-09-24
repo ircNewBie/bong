@@ -117,8 +117,6 @@ Android                      ███░░░░░░░░░░░░░░
 
 
 <h4 style="font-size:8px">
-Credits:
-</h4>
-  <a href="https://github.com/anuraghazra/github-readme-stats" > anuraghazra</a>
+Credits:<a href="https://github.com/anuraghazra/github-readme-stats" > anuraghazra</a>
 
 
