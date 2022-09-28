@@ -78,9 +78,10 @@ const me = softwareDeveloper(myCurrentRole);
 
 #### myCodingActivityOverTheLast_30Days
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ircNewBie/ddff9ecb-e20e-4815-b2c6-ce1d437070ce.png" style="width:100%; height:300px" /></a>
+<a href="https://wakatime.com/@ircNewBie"><img src="https://wakatime.com/share/@ircNewBie/ddff9ecb-e20e-4815-b2c6-ce1d437070ce.png" style="width:100%; height:300px" /></a>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@ircNewBie/a4b12f51-64cd-44f3-8464-687914d70722.png" style = "width:100%; height:300px" /></a>
+<a href="https://wakatime.com/@ircNewBie"><img src="https://wakatime.com/share/@ircNewBie/a4b12f51-64cd-44f3-8464-687914d70722.png" style = "width:100%; height:300px" /></a>
+
 #### iAmPartlyEarly 🐤
 
 ```text
