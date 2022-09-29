@@ -1,13 +1,13 @@
 <p align="left">
-  <h1 align="left">  Hi!   My name is  <a href="https://github.com/ircNewBie"> Bong~👋</a> </h1>
+  <h1 align="left">  Hi!   My name is  <a href="https://github.com/ircNewBie"> Bong  👋</a> </h1>
 </p>
 <p align="left">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Backend+Developer.;A+Software+QA/+Tester+as+well.;I+use+Javascript,+Python,+etc...;I'm++a+little+sleepy++programmer.;And+sure,++++I+snore!!+++;+++" /></a>
-
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Junior+Backend+Developer.;A+former+Software+QA/+Tester.;I+do+have+experience+in:;░░░░JavaScript░░░░++;░░░░░░Python░░░░░░++;░░░░░MQL4/MQL5░░░░░++;░░░andFewOthersMore░░░++;░░░░░░░░░░░░░░░░░░+;" /></a>
 </p>
-
 <p>
-I am a Backend Developer and a Software QA/Tester. 
+  I was a former Manual Software QA/Tester and currently a Junior Backend Developer. 
+</p>
+<p>
    I love to explore new learning horizons especially in areas of:
   <li>
           Data Science, Big Data & Analytics.
