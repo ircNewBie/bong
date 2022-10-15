@@ -31,7 +31,7 @@ const softwareDeveloper = (_devRole) => {
     name: "Maximiano 'Bong' Bungalan Jr.",
     devRole: _devRole,
     languages: ['Javascript', 'Python', 'MQL4/MQL5', 'Pascal', 'Php'],
-    usedFrameworks: ['ExpressJS/Mongoose', 'Laravel', 'FeatherJS'],
+    usedFrameworks: ['ExpressJS/MongoDB', 'Laravel/SQL', 'FeatherJS/MongoDB'],
     fieldOfInterest: [
       'Backend API',
       'Data Science & Big Data Analytics',
