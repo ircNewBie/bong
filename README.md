@@ -67,14 +67,6 @@ const me = softwareDeveloper(myCurrentRole);
     </tr>
 </table>
 
-#### myContributionGraph
-<table style= "border: none; transform:skewX(-10deg);">
-<th>
-
-  ![Bong's github activity graph](https://activity-graph.herokuapp.com/graph?username=ircNewBie&theme=react-dark)
-
-</th>
-</table>
 
 #### myCodingActivityOverTheLast_30Days
 
