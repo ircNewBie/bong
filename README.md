@@ -74,16 +74,6 @@ const me = softwareDeveloper(myCurrentRole);
 
 <a href="https://wakatime.com/@ircNewBie"><img src="https://wakatime.com/share/@ircNewBie/a91de8ef-5545-423c-a201-7ce87543ff13.png" style = "width:100%; height:300px" /></a>
 
-#### iAmPartlyEarly 🐤
-
-```text
-🌞 Morning    54 commits     ████░░░░░░░░░░░░░░░░░░░░░    6.98%
-🌆 Daytime    205 commits    ████████████░░░░░░░░░░░░░   54.37%
-🌃 Evening    82 commits     ██████░░░░░░░░░░░░░░░░░░░   21.75%
-🌙 Night      36 commits     ███░░░░░░░░░░░░░░░░░░░░░░    9.54%
-
-```
-
 #### myTimeSpentOn
 
 ```text
