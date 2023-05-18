@@ -26,12 +26,31 @@
  *  About Me
  *
  */
-const softwareDeveloper = (_devRole) => {
-  const thisDeveloper = {
-    name: "Maximiano 'Bong' Bungalan Jr.",
+const thisSoftwareDeveloper = (_devName, _devRole, _exp) => {
+  const thisDeveloper = { 
+    devName: _devName,
     devRole: _devRole,
-    languages: ['Javascript', 'Python', 'MQL4/MQL5', 'Pascal', 'Php'],
-    usedFrameworks: ['ExpressJS/MongoDB', 'Laravel/SQL', 'FeatherJS/MongoDB'],
+    yrsOfExperience: _exp,
+    experiences: {
+      languages: [
+        'Javascript', 
+        'Python', 
+        'MQL4/MQL5',
+        'Php'
+      ],
+      frameworksAndLibraries: [
+        'ExpressJS', 
+        'Laravel', 
+        'FeatherJS',
+        'NextJS'
+        'ReactJS'
+        ],
+      databases: [
+        'MongoDB', 
+        'mySQL', 
+        'Firebase'
+        ]
+      },
     fieldOfInterest: [
       'Backend API',
       'Data Science & Big Data Analytics',
@@ -41,9 +60,9 @@ const softwareDeveloper = (_devRole) => {
   };
   return thisDeveloper;
 };
-
-const myCurrentRole = 'Junior Backend Developer';
-const me = softwareDeveloper(myCurrentRole);
+const myCurrentRole = 'Backend Developer';
+const myName = "Maximiano 'Bong' Bungalan Jr."
+const me = thisSoftwareDeveloper(myName, myCurrentRole, 2);
 ```
 
 #### myStats
