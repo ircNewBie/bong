@@ -5,7 +5,7 @@
   <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=4DD091&size=25&lines=Welcome+to+my+GitHub+Page.;I+am+a+Backend+Developer.;A+former+Software+QA/+Tester.;I+do+have+experience+in:;░░░░JavaScript░░░░++;░░░░░░Python░░░░░░++;░░░░░MQL4/MQL5░░░░░++;░░░andFewOthersMore░░░++;░░░░░░░░░░░░░░░░░░+;" /></a>
 </p>
 <p>
-  I was a former Manual Software QA/Tester and currently as Backend Developer. 
+  I was a former Manual Software QA/Tester, became a Backend / Software Developer. 
 </p>
 <p>
    I love to explore new learning horizons especially in areas of:
@@ -24,45 +24,93 @@
 ```javascript
 /**
  *  About Me
+ * @param String _devName
+ * @param String _currentDevRole
+ * @param Number _totalYrsOfExp
+ * @return Object 
  *
  */
-const thisSoftwareDeveloper = (_devName, _devRole, _exp) => {
-  const thisDeveloper = { 
-    devName: _devName,
-    devRole: _devRole,
-    yrsOfExperience: _exp,
-    experiences: {
-      languages: [
-        'Javascript', 
-        'Python', 
-        'MQL4/MQL5',
-        'Php'
-      ],
-      frameworksAndLibraries: [
-        'ExpressJS', 
-        'Laravel', 
-        'FeatherJS',
-        'NextJS'
-        'ReactJS'
-        ],
-      databases: [
-        'MongoDB', 
-        'mySQL', 
-        'Firebase'
-        ]
+const getSoftwareDeveloper = (_devName, _currentDevRole, _totalYrsOfExp) => {
+
+  const workExperience = {
+    "1": {
+        "role" : "QA Engineer / Software Tester",
+        "dateEnded": "02-2022",
+        "duration": "10 months"
       },
-    fieldOfInterest: [
-      'Backend API',
-      'Data Science & Big Data Analytics',
-      'Automated Trading',
-      'Cloud Architecture',
-    ],
+    "2": {
+        "role" : "Backend Developer / QA",
+        "dateEnded": "05-2023",
+        "duration": "1 year & 3 months",
+      },
+    "3": {
+        "role" : "Software Developer",
+        "dateEnded": "Current",
+        "duration": "still counting"
+      }
+  };
+
+  const languages = [
+    'Javascript', 
+    'Python', 
+    'MQL4/MQL5',
+    'Php'
+  ];
+
+  const frameworksAndLibraries =  [
+    'ExpressJS', 
+    'Laravel',
+    'CodeIgniter',
+    'FeatherJS',
+    'NextJS',
+    'ReactJS'
+  ];
+
+  const  databases = [
+    'MongoDB', 
+    'mySQL', 
+    'Firebase'
+  ];
+
+  const  toolsUsed = [
+    'Git', 'SSH', 'bash',
+    'Postman', 'VSCode', 'MySQLWorkbench', 'MongoDBCompass', 
+    'Jira', 'Clickup', 'Trello', 'Microsoft Teams', 'Google Workspace', 
+    'Figma', 'Docker', 
+     'Markdown'
+  ];
+
+  const  fieldOfInterest = [
+    'Backend API',
+    'DevOp', 'Automated Testing', 'CI/CD', 
+    'Data Science & Big Data Analytics',
+    'Automated Trading',
+    'Cloud Architecture',
+  ];
+
+  const thisDeveloper = { 
+    "devName": _devName,
+    "currentDevRole": _currentDevRole,
+    "yrsOfExperience": _totalYrsOfExp,
+    "experiences": {
+        "workExperience": workExperience,
+        "techStack": {
+            "languages": languages,
+            "frameworks": frameworksAndLibraries,
+            "dataBases": databases,
+            "tools": toolsUsed
+        },
+    },
+    "interestedIn": fieldOfInterest
   };
   return thisDeveloper;
 };
-const myCurrentRole = 'Backend Developer';
-const myName = "Maximiano 'Bong' Bungalan Jr."
-const me = thisSoftwareDeveloper(myName, myCurrentRole, 2);
+
+const currentRole = 'Software Developer';
+const devName = "Maximiano 'Bong' Bungalan Jr."
+
+console.log(getSoftwareDeveloper(devName, currentRole, 3));
+
 ```
 
 #### myStats
